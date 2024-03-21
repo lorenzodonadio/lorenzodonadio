@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorenzodonadio
-- 🌱 I’m interested in Svelte, ML, Energy Transition
-- 💞️ I’m looking to collaborate on renewable energy projects
+- 🌱 I’m interested in ML, Energy Transition, Physics Simutaions
+- 💞️ I’m looking to collaborate on renewable energy projects, web dev and data
 - 📫 How to reach me lorenzodonadio@hotmail.com
 
 <!---
